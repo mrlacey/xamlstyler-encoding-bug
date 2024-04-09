@@ -3,6 +3,6 @@
 			 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
 	<Grid>
-			<TextBlock Text="This file is encoded as ISO 8859-1" />
+		<TextBlock Text="This file is encoded as ISO 8859-1" />
 	</Grid>
 </UserControl>

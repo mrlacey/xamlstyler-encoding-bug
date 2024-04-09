@@ -3,6 +3,6 @@
 			 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
 	<Grid>
-			<TextBlock Text="This file is encoded as Windows 1252" />
+		<TextBlock Text="This file is encoded as Windows 1252" />
 	</Grid>
 </UserControl>
