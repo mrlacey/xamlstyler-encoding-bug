@@ -1,0 +1,1 @@
+# xamlstyler-encoding-bug
