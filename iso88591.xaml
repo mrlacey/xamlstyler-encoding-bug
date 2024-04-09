@@ -1,0 +1,8 @@
+<UserControl x:Class="EncodingBug.UserControlIso88591"
+			 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+	<Grid>
+			<TextBlock Text="This file is encoded as ISO 8859-1" />
+	</Grid>
+</UserControl>
